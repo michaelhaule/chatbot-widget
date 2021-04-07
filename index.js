@@ -1,15 +1,4 @@
-<html>
-  <head>
-    <title>Chatbot Africa</title>
 
-    <!--Let browser know website is optimized for mobile-->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <!--Main css-->
-    <link rel="stylesheet" type="text/css" href="static/css/style.css" />
-  </head>
-
-  <body>
     <!-- Chatbot Start Here -->
       <div class="mikael">
         <div class="container">
@@ -51,8 +40,3 @@
         </div>
       </div>
     <!-- Chatbot End Here -->
-
-    <!--JavaScript at end of body for optimized loading-->
-    <script src="static/js/main.js"></script>
-  </body>
-</html>
