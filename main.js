@@ -1,6 +1,6 @@
 
 document.head.innerHTML +=
-'<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mikaelhaule/chatbot-widget/static/css/style.css">';
+'<link rel="stylesheet" href="http://chatbotafrica.btest.link/static/css/style.css">';
 
 /*! jQuery v3.3.1 | (c) JS Foundation and other contributors | jquery.org/license */
 !(function (e, t) {
