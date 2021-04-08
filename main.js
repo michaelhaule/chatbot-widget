@@ -1,4 +1,4 @@
-// Imported css
+
 document.head.innerHTML +=
 '<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mikaelhaule/chatbot-widget/static/css/style.css">';
 
